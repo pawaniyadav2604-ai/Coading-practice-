@@ -1,2 +1,2 @@
-# Coading-practice-
+# Coading-practice-arrays
 daily coding questions 
